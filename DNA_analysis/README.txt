@@ -1,0 +1,1 @@
+READMEThis piece of code was written to do the followings;	Calculating AT content of an E.coli DNA sequence. 	Finds the complementary DNA sequence for the E.coli sequence.	Finds the restriction fragment lengths of the sequence 	Splices out the introns of the sequence. 
